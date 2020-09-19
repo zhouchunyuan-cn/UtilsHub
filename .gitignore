@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+.idea/
+*.log
+tests.py
+log/
+celerybeat.pid
+utilsapp/migrations/
